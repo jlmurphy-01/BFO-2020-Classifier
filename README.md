@@ -2,6 +2,8 @@
 
 A small web tool that helps you decide where a term belongs in the **Basic Formal Ontology (BFO)**. You type an entity (for example "tank", "kicking" or "the colour of a berry"), answer a series of decision-tree questions about it, and the tool tells you which BFO class it is, with the class definition, examples and the path of answers that led there.
 
+[Open the BFO Classifier](https://jlmurphy-01.github.io/BFO-2020-Classifier/BFO%20Classifier.html)
+
 ## What it is used for
 
 - Classifying a term or entity in BFO as a starting point for ontology work.
